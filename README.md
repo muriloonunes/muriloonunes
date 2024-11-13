@@ -1,6 +1,14 @@
 ## 💻 Hi there! I'm Murilo 👋
 <br>
-<img src="https://raw.githubusercontent.com/muriloonunes/muriloonunes/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img src="https://raw.githubusercontent.com/muriloonunes/muriloonunes/output/snake.svg" alt="Snake animation" />
+</p>
+<br>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muriloonunes&theme=chartreuse-dark&border_radius=5&card_height=200" alt="GitHub Streak" />
+ </a>
+</p>
 
 ## 🙋🏽‍♂️ About me
  - Software Engineering student at SENAI Fatesg
@@ -52,9 +60,9 @@
   </p>
 - **Others**: Version Control (Git), Software Engineering Skills (UML, Use Case Modeling, Class Diagram)
 
-## 📂 Projects
+## 📂 Favorite Projects
 <a href="https://github.com/muriloonunes/Calculadora-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf8007&card_width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800" />
 </a>
 <a href="https://github.com/muriloonunes/RockPaperScissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800" />
@@ -62,7 +70,7 @@
 
 ## 📊 Github Status
 <a href="https://github.com/muriloonunes/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220" />
 </a>
 <a href="https://github.com/muriloonunes?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320" />
