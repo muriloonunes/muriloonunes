@@ -6,7 +6,17 @@
 <br>
 <p align="center">
  <a href="https://git.io/streak-stats" align="center">
+  <picture>
+   <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=muriloonunes&theme=chartreuse-dark&border_radius=5&card_height=200"
+    media="(prefers-color-scheme: dark)"
+    />
+   <source
+     srcset="https://github-readme-streak-stats.herokuapp.com?user=muriloonunes&theme=catppuccin_latte&border_radius=5&card_height=200"
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muriloonunes&theme=chartreuse-dark&border_radius=5&card_height=200" alt="GitHub Streak" />
+  </picture>
  </a>
 </p>
 
@@ -28,9 +38,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
     <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" alt="JavaFX" width="80" height="40"/>
   </a>
-      <a href="https://https://kotlinlang.org/" target="_blank" rel="noreferrer">
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -62,20 +72,69 @@
 
 ## 📂 Favorite Projects
 <a href="https://github.com/muriloonunes/Calculadora-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800" />
+ <picture>
+  <source
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800"
+   media="(prefers-color-scheme: dark)"
+   />
+  <source
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte&card_width=500"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800" height="157"/>
+ </picture>
 </a>
+
 <a href="https://github.com/muriloonunes/RockPaperScissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800" />
+ <picture>
+  <source
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800&card_width=300"
+   media="(prefers-color-scheme: dark)"
+   />
+  <source
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=catppuccin_latte"
+   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+   />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800" width="450"/>
+ </picture>
 </a>
 
 ## 📊 Github Status
 <a href="https://github.com/muriloonunes/">
+<picture>
+ <source
+  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220"
+  media="(prefers-color-scheme: dark)"
+/>
+ <source
+  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=catppuccin_latte&card_width=220"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220" />
+</picture>
+</a>
+
+<a href="https://github.com/muriloonunes?tab=repositories">
+<picture>
+ <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320"
+  media="(prefers-color-scheme: dark)"
+/>
+ <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=catppuccin_latte&card_width=320"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320" />
+</picture>
+</a>
+
+<!--
+<a href="https://github.com/muriloonunes/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/muriloonunes?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320" />
 </a>
-<!--
 <table alignment="center-left">
   <tr>
     <td align="center-left">
