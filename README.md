@@ -1,10 +1,13 @@
 ## 💻 Hi there! I'm Murilo 👋
+<br>
+<img src="https://raw.githubusercontent.com/muriloonunes/muriloonunes/output/snake.svg" alt="Snake animation" />
 
 ## 🙋🏽‍♂️ About me
- - 🧑🏽‍🎓 Software Engineering student at SENAI Fatesg
- - 🌱 Working to enhance my development skills and knowledge
+ - Software Engineering student at SENAI Fatesg
+ - Working to enhance my development skills and knowledge
+ - Pop culture and videogames enthusiast in my free time
 
-## Habilities and interests
+## 🚀 Habilities and interests
  - Back-end development, mostly in Java
  - Little front-end experience, based mostly on JavaFX and CSS
  - Currently studying Java and Android Development
@@ -49,45 +52,34 @@
   </p>
 - **Others**: Version Control (Git), Software Engineering Skills (UML, Use Case Modeling, Class Diagram)
 
-## My GitHub Profile
-- **Featured repos**: <br>
-  <table>
-    <tr>
-    <td align="center-left">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy" alt="muriloonunes languages" width="500"/>
-    </td>
-      <td align="center-left">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy" alt="muriloonunes languages" width="500"/>
-    </td>
-    </tr>
-  </table>
-- **Status**: <br>
-<table>
+## 📂 Projects
+<a href="https://github.com/muriloonunes/Calculadora-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf8007&card_width=500" />
+</a>
+<a href="https://github.com/muriloonunes/RockPaperScissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800" />
+</a>
+
+## 📊 Github Status
+<a href="https://github.com/muriloonunes/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800" />
+</a>
+<a href="https://github.com/muriloonunes?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320" />
+</a>
+<!--
+<table alignment="center-left">
   <tr>
     <td align="center-left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy" alt="muriloonunes languages" width="350"/>
+      <img src="" alt="muriloonunes languages" width=500/>
     </td>
     <td align="center-left">
-      <img src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy" alt="muriloonunes github" width="500"/>
+      <img src="" alt="muriloonunes github stats" width=500/>
     </td>
   </tr>
 </table>
+-->
 
 ## 📫 Reach Me
-LinkedIn: [Murilo Nunes](https://www.linkedin.com/in/murilo-nuness/)<br>
-E-mail: [murilo_no@outlook.com](mailto:murilo_no@outlook.com)
-
-<!--
-**muriloonunes/muriloonunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-nuness/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilo_no@outlook.com)
