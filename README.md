@@ -25,6 +25,11 @@
  - Working to enhance my development skills and knowledge
  - Pop culture and videogames enthusiast in my free time
 
+| Now Playing on Spotify |
+|------------------------|
+| ![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=4pm4znzt7flxlitb7ji56zf9y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false) |
+
+
 ## 🚀 Habilities and interests
  - Back-end development, mostly in Java
  - Little front-end experience, based mostly on JavaFX and CSS
@@ -74,14 +79,14 @@
 <a href="https://github.com/muriloonunes/Calculadora-Java">
  <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=450&title_color=7cf800"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte&card_width=500"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte&card_width=450"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=500&title_color=7cf800" height="157"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=450&title_color=7cf800" height="157"/>
  </picture>
 </a>
 
@@ -103,28 +108,28 @@
 <a href="https://github.com/muriloonunes/">
 <picture>
  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220"
+  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=200"
   media="(prefers-color-scheme: dark)"
 />
  <source
-  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=catppuccin_latte&card_width=220"
+  srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=catppuccin_latte&card_width=200"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=200" />
 </picture>
 </a>
 
 <a href="https://github.com/muriloonunes?tab=repositories">
 <picture>
  <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=200"
   media="(prefers-color-scheme: dark)"
 />
  <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=catppuccin_latte&card_width=320"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=catppuccin_latte&card_width=200"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=200" />
 </picture>
 </a>
 
