@@ -79,28 +79,28 @@
 <a href="https://github.com/muriloonunes/Calculadora-Java">
  <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=450&title_color=7cf800"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf800"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte&card_width=450"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&card_width=450&title_color=7cf800" height="157"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navytitle_color=7cf800"/>
  </picture>
 </a>
 
-<a href="https://github.com/muriloonunes/RockPaperScissors">
+<a href="https://github.com/muriloonunes/jamscope">
  <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800&card_width=300"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=catppuccin_latte"
+   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=catppuccin_latte"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=RockPaperScissors&locale=en&theme=blue_navy&title_color=7cf800" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800"/>
  </picture>
 </a>
 
