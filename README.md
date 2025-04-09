@@ -117,7 +117,7 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.4%20thousand%20lines%20of%20code-blue)
 
@@ -153,12 +153,8 @@ TOML                     12 mins             █░░░░░░░░░░�
 XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/muriloonunes/muriloonunes/main/assets/bar_graph.png)
-
-
- Last Updated on 09/04/2025 13:58:57 UTC
+ Last Updated on 09/04/2025 14:00:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
