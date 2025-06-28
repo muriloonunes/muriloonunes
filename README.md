@@ -111,7 +111,7 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.5%20thousand%20lines%20of%20code-blue)
 
@@ -140,11 +140,15 @@ Sunday                   25 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       56 mins             █████████████████████████   100.00 % 
+Kotlin                   2 hrs 25 mins       ██████████████░░░░░░░░░░░   56.65 % 
+Go                       56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+TOML                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 
- Last Updated on 27/06/2025 03:53:01 UTC
+ Last Updated on 28/06/2025 03:48:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
