@@ -140,12 +140,11 @@ Sunday                   60 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 3 mins         █████████████████████████   99.93 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/12/2025 04:01:14 UTC
+ Last Updated on 17/12/2025 03:58:05 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
