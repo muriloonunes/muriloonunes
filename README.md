@@ -115,8 +115,40 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108.95%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 01/05/2026 06:20:37 UTC
+```text
+🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+🌆 Daytime                243 commits         ███████████░░░░░░░░░░░░░░   42.33 % 
+🌃 Evening                283 commits         ████████████░░░░░░░░░░░░░   49.30 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Thursday                 121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Friday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
+HTML                     1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Java                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+```
+
+
+ Last Updated on 02/05/2026 05:42:26 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
