@@ -111,12 +111,44 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-174.54%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+🌆 Daytime                305 commits         ███████████░░░░░░░░░░░░░░   44.85 % 
+🌃 Evening                317 commits         ████████████░░░░░░░░░░░░░   46.62 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   132 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Thursday                 137 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Friday                   104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Saturday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+```
 
 
- Last Updated on 18/05/2026 07:02:22 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+HTML                     1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Java                     1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+CSS                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+XML                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+```
+
+
+ Last Updated on 19/05/2026 06:54:19 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
