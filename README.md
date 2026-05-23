@@ -10,10 +10,10 @@
   <a href="https://github.com/muriloonunes?tab=repositories">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=catppuccin_latte&card_width=180"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=catppuccin_latte&card_width=180"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloonunes&show_icons=true&layout=compact&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"  alt="muriloonunes' top languages"/>
     </picture>
@@ -21,10 +21,10 @@
   <a href="https://github.com/muriloonunes/">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"
+        srcset="https://github-stats-extended.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=catppuccin_latte&card_width=180"
+        srcset="https://github-stats-extended.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=catppuccin_latte&card_width=180"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=muriloonunes&show_icons=true&locale=en&theme=blue_navy&title_color=7cf800&card_width=180"  alt="muriloonunes' github stats"/>
     </picture>
@@ -84,28 +84,28 @@
 <a href="https://github.com/muriloonunes/Calculadora-Java">
  <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf800"
+   srcset="https://github-stats-extended.vercel.appp/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf800"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte"
+   srcset="https://github-stats-extended.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=catppuccin_latte"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf800" alt="Calculadora Java repository"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=muriloonunes&repo=Calculadora-Java&locale=en&theme=blue_navy&title_color=7cf800" alt="Calculadora Java repository"/>
  </picture>
 </a>
 
 <a href="https://github.com/muriloonunes/jamscope">
  <picture>
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800"
+   srcset="https://github-stats-extended.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800"
    media="(prefers-color-scheme: dark)"
    />
   <source
-   srcset="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=catppuccin_latte"
+   srcset="https://github-stats-extended.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=catppuccin_latte"
    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
    />
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800" alt="Jamscope repository"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=muriloonunes&repo=jamscope&locale=en&theme=blue_navy&title_color=7cf800" alt="Jamscope repository"/>
  </picture>
 </a>
 
