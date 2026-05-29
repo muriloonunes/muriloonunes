@@ -111,44 +111,12 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-214.05%20thousand%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-🌆 Daytime                355 commits         ███████████░░░░░░░░░░░░░░   45.28 % 
-🌃 Evening                359 commits         ███████████░░░░░░░░░░░░░░   45.79 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Tuesday                  125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 161 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Friday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
-HTML                     3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Java                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-CSS                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Kotlin                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-```
-
-
- Last Updated on 28/05/2026 06:59:53 UTC
+ Last Updated on 29/05/2026 07:00:16 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
