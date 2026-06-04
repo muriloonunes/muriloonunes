@@ -113,42 +113,10 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288.80%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-🌆 Daytime                363 commits         ███████████░░░░░░░░░░░░░░   44.54 % 
-🌃 Evening                378 commits         ████████████░░░░░░░░░░░░░   46.38 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   150 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Tuesday                  138 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Thursday                 161 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Friday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-289.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   38 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Java                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-XML                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-```
-
-
- Last Updated on 03/06/2026 08:25:17 UTC
+ Last Updated on 04/06/2026 07:57:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
