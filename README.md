@@ -111,10 +111,44 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-399.92%20thousand%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2049%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-426.28%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌆 Daytime                409 commits         ███████████░░░░░░░░░░░░░░   44.46 % 
+🌃 Evening                424 commits         ████████████░░░░░░░░░░░░░   46.09 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   180 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Tuesday                  170 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Thursday                 161 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Friday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+```
 
 
- Last Updated on 07/06/2026 07:11:36 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.54 % 
+HTML                     6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Java                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+CSS                      3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+```
+
+
+ Last Updated on 08/06/2026 08:19:01 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
