@@ -115,8 +115,39 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-382.71%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 07/07/2026 06:53:07 UTC
+```text
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌆 Daytime                478 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
+🌃 Evening                470 commits         ███████████░░░░░░░░░░░░░░   44.09 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Tuesday                  185 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Thursday                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Sunday                   76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Kotlin                   5 hrs 30 mins       █████████████████████████   99.03 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+ Last Updated on 08/07/2026 06:04:39 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
