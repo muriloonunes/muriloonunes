@@ -111,44 +111,10 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%206%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-382.71%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                478 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
-🌃 Evening                470 commits         ███████████░░░░░░░░░░░░░░   44.09 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Tuesday                  185 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Thursday                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Friday                   175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Sunday                   76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-393.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   1 hr 3 mins         ███████████████████░░░░░░   74.49 % 
-YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
-
-
- Last Updated on 27/07/2026 06:37:37 UTC
+ Last Updated on 28/07/2026 05:54:30 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
