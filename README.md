@@ -111,9 +111,9 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-432.57%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -142,37 +142,37 @@ Sunday                   82 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   7 hrs 14 mins       ████████████████████░░░░░   81.65 % 
-TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Java                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Kotlin                   6 hrs 12 mins       ███████████████████░░░░░░   77.39 % 
+Java                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (30.09%)
+⏱ AI Coding Time: 3 hrs 16 mins (40.87%)
 
-✍️ 214 lines written by AI, 1,541 lines written by hand (12.19% AI-written)
+✍️ 214 lines written by AI, 1,200 lines written by hand (15.13% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 25 AI Prompts
 
 Gemini                   340 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.19% of written lines came from AI
-📄 Detailed Prompter — average 563 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.13% of written lines came from AI
+📄 Detailed Prompter — average 517 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 86.34% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 82.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 03:52:49 UTC
+ Last Updated on 21/08/2026 03:56:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
