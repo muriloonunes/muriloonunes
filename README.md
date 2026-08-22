@@ -115,26 +115,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-432.57%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-432.79%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-🌆 Daytime                521 commits         ███████████░░░░░░░░░░░░░░   45.23 % 
-🌃 Evening                499 commits         ███████████░░░░░░░░░░░░░░   43.32 % 
+🌞 Morning                133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                523 commits         ███████████░░░░░░░░░░░░░░   45.24 % 
+🌃 Evening                499 commits         ███████████░░░░░░░░░░░░░░   43.17 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   219 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Saturday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Monday                   219 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Tuesday                  202 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Wednesday                153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Thursday                 195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Saturday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 
 
@@ -142,19 +142,19 @@ Sunday                   82 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   6 hrs 12 mins       ███████████████████░░░░░░   77.39 % 
-Java                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Kotlin                   5 hrs 50 mins       ████████████████████░░░░░   78.33 % 
+Java                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 16 mins (40.87%)
+⏱ AI Coding Time: 3 hrs 16 mins (43.97%)
 
-✍️ 214 lines written by AI, 1,200 lines written by hand (15.13% AI-written)
+✍️ 214 lines written by AI, 1,082 lines written by hand (16.51% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -165,14 +165,14 @@ TOML                     0 secs              ░░░░░░░░░░░�
 Gemini                   340 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.13% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 16.51% of written lines came from AI
 📄 Detailed Prompter — average 517 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 82.19% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 80.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 03:56:02 UTC
+ Last Updated on 22/08/2026 03:48:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
