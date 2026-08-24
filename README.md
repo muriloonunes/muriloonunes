@@ -142,9 +142,9 @@ Sunday                   82 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   5 hrs 1 min         ███████████████████░░░░░░   75.66 % 
-Java                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Kotlin                   4 hrs 57 mins       ███████████████████░░░░░░   77.98 % 
+Java                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
@@ -152,27 +152,27 @@ JSON                     0 secs              ░░░░░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (23.33%)
+⏱ AI Coding Time: 1 hr 20 mins (20.98%)
 
-✍️ 87 lines written by AI, 1,670 lines written by hand (4.95% AI-written)
+✍️ 113 lines written by AI, 1,650 lines written by hand (6.41% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 15 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
-Gemini                   169 lines           █████████████████████████   100.00 % 
+Gemini                   113 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.95% of written lines came from AI
-📝 Concise Prompter — average 387 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.41% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 95.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 03:56:08 UTC
+ Last Updated on 24/08/2026 04:00:42 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
