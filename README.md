@@ -142,19 +142,19 @@ Sunday                   92 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
-TypeScript               8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.14 % 
-JSON                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-SCSS                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
+Java                     6 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+JSON                     3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+SCSS                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (21.02%)
+⏱ AI Coding Time: 5 hrs 20 mins (27.06%)
 
-✍️ 3,817 lines written by AI, 6,973 lines written by hand (35.38% AI-written)
+✍️ 3,817 lines written by AI, 3,685 lines written by hand (50.88% AI-written)
 
 🔤 421,074 Input Tokens, 67,863 Output Tokens
 
@@ -165,14 +165,14 @@ JavaScript               35 mins             █░░░░░░░░░░�
 Gemini                   4,035 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.38% of written lines came from AI
+⚖️ Balanced with AI — 50.88% of written lines came from AI
 📝 Concise Prompter — average 464 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 08:31:12 UTC
+ Last Updated on 27/09/2026 09:09:46 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
