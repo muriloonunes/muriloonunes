@@ -111,7 +111,7 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2011%20mins-blue?style=flat)
 
@@ -142,37 +142,37 @@ Sunday                   92 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.41 % 
-JSON                     3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Java                     3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-SCSS                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+TypeScript               5 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+JSON                     2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+Java                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+SCSS                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 20 mins (32.58%)
+⏱ AI Coding Time: 3 hrs 10 mins (27.16%)
 
-✍️ 3,817 lines written by AI, 3,253 lines written by hand (53.99% AI-written)
+✍️ 2,355 lines written by AI, 2,582 lines written by hand (47.7% AI-written)
 
 🔤 421,074 Input Tokens, 67,863 Output Tokens
 
 💵 $0.57 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 36 AI Prompts
+🧠 7 AI Sessions, 22 AI Prompts
 
-Gemini                   4,035 lines         █████████████████████████   100.00 % 
+Gemini                   2,498 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.99% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 94.96% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.7% of written lines came from AI
+📝 Concise Prompter — average 359 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 89.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 09:38:55 UTC
+ Last Updated on 29/09/2026 09:43:42 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
