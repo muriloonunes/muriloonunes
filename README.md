@@ -142,37 +142,37 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 32 mins      ███████████████████░░░░░░   74.88 % 
-SCSS                     2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               12 hrs 47 mins      █████████████████████░░░░   85.31 % 
+SCSS                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Java                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (29.71%)
+⏱ AI Coding Time: 2 hrs 26 mins (16.27%)
 
-✍️ 9,593 lines written by AI, 5,379 lines written by hand (64.07% AI-written)
+✍️ 1,472 lines written by AI, 5,354 lines written by hand (21.56% AI-written)
 
-🔤 4,309,021 Input Tokens, 1,117,183 Output Tokens
+🔤 1,729,968 Input Tokens, 843,102 Output Tokens
 
-💵 $7.42 Estimated AI Cost This Week
+💵 $5.08 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 152 AI Prompts
+🧠 3 AI Sessions, 124 AI Prompts
 
-Gemini                   10,017 lines        █████████████████████████   100.00 % 
+Gemini                   1,749 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.07% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 96.56% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.56% of written lines came from AI
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 41 prompts per session
+🔍 Hands-On Reviewer — 99.44% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 10:01:41 UTC
+ Last Updated on 02/10/2026 09:38:06 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
