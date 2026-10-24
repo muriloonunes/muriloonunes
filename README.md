@@ -111,9 +111,9 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-660.60%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -142,37 +142,38 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 12 mins       ████████████████░░░░░░░░░   62.55 % 
-SQL                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Java Properties          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Properties               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-XML                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Java                     4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
+TypeScript               4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
+SQL                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Java Properties          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (5.12%)
+⏱ AI Coding Time: 32 mins (4.77%)
 
-✍️ 0 lines written by AI, 1,388 lines written by hand (0.0% AI-written)
+✍️ 101 lines written by AI, 2,236 lines written by hand (4.32% AI-written)
 
-🔤 119,781 Input Tokens, 17,043 Output Tokens
+🔤 292,203 Input Tokens, 58,223 Output Tokens
 
-💵 $0.44 Estimated AI Cost This Week
+💵 $1.96 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
+Opus                     102 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,435 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.32% of written lines came from AI
+📄 Detailed Prompter — average 986 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 08:27:10 UTC
+ Last Updated on 24/10/2026 08:02:16 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
