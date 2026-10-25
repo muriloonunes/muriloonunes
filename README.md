@@ -111,9 +111,9 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-660.60%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -142,38 +142,38 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
-TypeScript               4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
-SQL                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Java Properties          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               6 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.05 % 
+Java                     4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+SQL                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java Properties          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (4.77%)
+⏱ AI Coding Time: 2 hrs (14.09%)
 
-✍️ 101 lines written by AI, 2,236 lines written by hand (4.32% AI-written)
+✍️ 153 lines written by AI, 2,583 lines written by hand (5.59% AI-written)
 
-🔤 292,203 Input Tokens, 58,223 Output Tokens
+🔤 1,613,440 Input Tokens, 326,158 Output Tokens
 
-💵 $1.96 Estimated AI Cost This Week
+💵 $9.12 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
-Opus                     102 lines           █████████████████████████   100.00 % 
+Opus                     158 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.32% of written lines came from AI
-📄 Detailed Prompter — average 986 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 97.12% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.59% of written lines came from AI
+📝 Concise Prompter — average 321 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 96.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 08:02:16 UTC
+ Last Updated on 25/10/2026 08:19:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
