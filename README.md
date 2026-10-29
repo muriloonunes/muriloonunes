@@ -142,19 +142,19 @@ Sunday                   99 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 53 mins       █████████████████░░░░░░░░   66.11 % 
-Java                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-SQL                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Properties               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               8 hrs 53 mins       ████████████████████░░░░░   81.55 % 
+Java                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (22.56%)
+⏱ AI Coding Time: 3 hrs 1 min (27.83%)
 
-✍️ 359 lines written by AI, 2,142 lines written by hand (14.35% AI-written)
+✍️ 359 lines written by AI, 1,627 lines written by hand (18.08% AI-written)
 
 🔤 2,522,047 Input Tokens, 532,418 Output Tokens
 
@@ -166,14 +166,14 @@ Gemini                   212 lines           ███████████�
 Opus                     158 lines           ███████████░░░░░░░░░░░░░░   42.70 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.35% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.08% of written lines came from AI
 📝 Concise Prompter — average 345 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 91.25% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 89.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 09:32:31 UTC
+ Last Updated on 29/10/2026 09:46:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
