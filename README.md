@@ -111,30 +111,30 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-677.53%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-682.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                248 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌆 Daytime                771 commits         ████████████░░░░░░░░░░░░░   48.19 % 
-🌃 Evening                579 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌞 Morning                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                778 commits         ████████████░░░░░░░░░░░░░   48.32 % 
+🌃 Evening                580 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Tuesday                  316 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Wednesday                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Tuesday                  326 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 240 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Friday                   244 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Saturday                 190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
@@ -142,11 +142,11 @@ Sunday                   101 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 56 mins      ██████████████░░░░░░░░░░░   57.17 % 
-Java                     5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-XML                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TypeScript               12 hrs 13 mins      ███████████████░░░░░░░░░░   61.92 % 
+Java                     4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +156,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/11/2026 11:41:16 UTC
+ Last Updated on 18/11/2026 11:28:40 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
