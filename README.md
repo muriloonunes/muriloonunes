@@ -142,11 +142,11 @@ Sunday                   101 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 54 mins       ███████████████░░░░░░░░░░   58.03 % 
-Java                     3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+TypeScript               5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.38 % 
+Java                     2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+CSS                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +156,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/11/2026 11:17:12 UTC
+ Last Updated on 21/11/2026 10:52:55 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
