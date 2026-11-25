@@ -111,7 +111,7 @@
 
 ## 📊 Coding Status
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2042%20mins-blue?style=flat)
 
@@ -142,11 +142,11 @@ Sunday                   101 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.04 % 
-HTML                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               4 hrs 9 mins        █████████████████░░░░░░░░   69.09 % 
+Java                     1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -156,7 +156,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/11/2026 13:31:14 UTC
+ Last Updated on 25/11/2026 12:32:53 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Reach Me
